@@ -3,4 +3,5 @@
 ## 游戏发生在一个被称作「Yost」的幻想世界,在这里,被勾选中的人们将被授予「nb之力」.
 ## 在自由的旅行中邂逅性格各异、能力独特的同伴们,找回没有的亲人.
 ![alt 打龙](./dragonegg.jpg)
-
+![alt santa](./photos/3.jpg)
+![alt Santa](./photos/2.jpg)
